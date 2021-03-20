@@ -1,0 +1,14 @@
+.book-add-container{
+    position: fixed;
+    width: 400px;
+    height: 600px;
+    top: 100px;
+    left: 250px;
+    background-color: blueviolet;
+}
+.btn{
+    background-color:darkviolet;
+    border-style: solid;
+    border-color: black;
+    cursor: pointer;
+}

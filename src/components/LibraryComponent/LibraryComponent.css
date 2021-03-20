@@ -1,0 +1,41 @@
+.library-container{
+    height: 100%;
+}
+.header{
+    height: fit-content;
+    background-color: #221e3c;
+    color:aliceblue;
+}
+.header-top{
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    font-size: 2em;
+}
+.book-list{
+    background-color: #322e4c;
+    height: 100%;
+}
+.add-button-container{
+    width: 10%;
+    background-color: #5143af;
+    cursor: pointer;
+}
+.library-name{
+    width: 80%;
+}
+.info-button{
+    width: 10%;
+    background-color: #5143af;
+    cursor: pointer;
+}
+.About{
+    text-align: left;
+}
+.form-backgroud {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background: rgba(#141414, 0.3);
+}
