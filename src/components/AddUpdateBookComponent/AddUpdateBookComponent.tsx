@@ -1,5 +1,4 @@
 import { FormEvent, useEffect, useState } from "react";
-import { genres } from "../../defaults";
 import { Book } from "../../models/Book";
 import { BookInfo } from "../../models/Library";
 import "./AddUpdateBookComponent.css";
